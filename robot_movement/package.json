@@ -1,0 +1,18 @@
+{
+  "name": "my_robot",
+  "version": "1.0.0",
+  "description": "The robot movement project",
+  "main": "robot.js",
+  "scripts": {
+    "start": "nodemon robot.js"
+  },
+  "keywords": [
+    "robot",
+    "movement"
+  ],
+  "author": "Ali Barkhordar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
